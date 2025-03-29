@@ -57,4 +57,4 @@ Topics include:
 
 ---
 
-*"Simplicity is a prerequisite for reliability." — Edsger W. Dijkstra*
+*"Master the basics. Then practice them every day without fail." - John C. Maxwell*
